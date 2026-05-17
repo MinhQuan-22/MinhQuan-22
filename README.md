@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chu Dinh Minh Quan</h1>
+<h1 align="center">Hi 👋, My name is Chu Dinh Minh Quan</h1>
 
 <h3 align="center">
   Software Engineering Student | Backend / Full-stack Developer Intern
@@ -6,13 +6,13 @@
 
 <p align="center">
   <a href="mailto:chudinhminhquan1002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/minh-quan-chu-826a24406">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/MinhQuan-22">
-    <img src="https://img.shields.io/badge/GitHub-MinhQuan-22-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-MinhQuan--22-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -20,9 +20,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student at Ton Duc Thang University  
+I am a Software Engineering student at Ton Duc Thang University, currently focusing on Backend Development and Full-stack Web Development.
+
+- 🎓 Software Engineering student  
 - 💻 Interested in Backend Development, Full-stack Web Development, and Database Systems  
-- 🚀 Currently building projects with React, Node.js, Express, MySQL, SQL Server, Docker  
+- 🚀 Currently building projects with React, Node.js, Express.js, ASP.NET Core, MySQL, SQL Server, MongoDB, and Docker  
+- 🤖 Learning how to integrate AI features into real-world web applications  
 - 🎯 Goal: Become a Backend / Full-stack Developer Intern  
 
 ---
@@ -30,7 +33,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,react,nodejs,express,mysql,mongodb,docker,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,python,react,nodejs,express,dotnet,mysql,mongodb,docker,git,github,html,css" />
 </p>
 
 ---
@@ -38,19 +41,48 @@
 ## 📌 Featured Projects
 
 ### 🏨 Royal Hotel Booking System
-- Hotel booking web application with customer booking flow and admin management.
-- Tech stack: ASP.NET Core MVC, C#, SQL Server, MongoDB, Bootstrap.
-- Main features: room search, booking, simulated payment, booking status management, admin dashboard.
+
+A hotel booking web application with customer booking flow and admin management.
+
+**Tech Stack:** ASP.NET Core MVC, C#, SQL Server, MongoDB, Bootstrap  
+
+**Main Features:**
+- Room listing and room detail pages
+- Room booking and simulated payment flow
+- Booking status management
+- Admin room and booking management
+- Dashboard and report features
+
+---
 
 ### 🤖 Course Assistant Chatbot
-- AI-powered course assistant using RAG to answer questions from course materials.
-- Tech stack: React TypeScript, Django, MySQL/PostgreSQL, ChromaDB, LangChain, Docker.
-- Main features: document-based Q&A, vector search, chat history, authentication.
 
-### 📋 Job Application Tracker
-- Full-stack application to manage job applications and analyze CV-JD matching with AI.
-- Tech stack: React, Node.js/Express, MySQL, Prisma, Docker, Gemini API.
-- Main features: job board, application status pipeline, reminders, analytics, AI matching.
+An AI-powered course assistant chatbot using RAG to answer questions from course materials.
+
+**Tech Stack:** React TypeScript, Django, MySQL/PostgreSQL, ChromaDB, LangChain, Docker  
+
+**Main Features:**
+- Document-based question answering
+- Vector search with ChromaDB
+- Chat history
+- Authentication
+- Docker-based deployment
+
+---
+
+### 🏦 VietBank Digital Banking
+
+A digital banking web application designed to simulate core online banking services and improve user banking experience.
+
+**Tech Stack:** React, JavaScript, Node.js/Express.js, MySQL, RESTful API  
+
+**Main Features:**
+- User authentication and account management
+- Bank account overview
+- Money transfer flow
+- Transaction history
+- Digital banking dashboard
+- Responsive user interface
 
 ---
 
@@ -82,8 +114,8 @@
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 - Email: chudinhminhquan1002@gmail.com  
-- LinkedIn: YOUR_LINKEDIN  
+- LinkedIn: https://www.linkedin.com/in/minh-quan-chu-826a24406  
 - GitHub: https://github.com/MinhQuan-22
