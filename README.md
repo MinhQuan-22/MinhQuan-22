@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, My name is Chu Dinh Minh Quan</h1>
+<h1 align="center">WELCOME TO MY PAGE 👋👋👋</h1>
 
 <h3 align="center">
-  Software Engineering Student | Backend / Full-stack Developer Intern
+  Hi, I'm Minh Quan — Software Engineering Student | Backend / Full-stack Developer Intern
 </h3>
 
 <p align="center">
@@ -22,10 +22,9 @@
 
 I am a Software Engineering student at Ton Duc Thang University, currently focusing on Backend Development and Full-stack Web Development.
 
-- 🎓 Software Engineering student  
 - 💻 Interested in Backend Development, Full-stack Web Development, and Database Systems  
-- 🚀 Currently building projects with React, Node.js, Express.js, ASP.NET Core, MySQL, SQL Server, MongoDB, and Docker  
-- 🤖 Learning how to integrate AI features into real-world web applications  
+- 🚀 Building real-world web applications with React, Node.js, Express.js, ASP.NET Core, SQL Server, MySQL, MongoDB, and Docker  
+- 🤖 Learning how to integrate AI features into practical software systems  
 - 🎯 Goal: Become a Backend / Full-stack Developer Intern  
 
 ---
@@ -38,7 +37,35 @@ I am a Software Engineering student at Ton Duc Thang University, currently focus
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhQuan-22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan-22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MinhQuan-22/Royal-Hotel-Booking-System">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Royal-Hotel-Booking-System&theme=radical&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+  <a href="https://github.com/MinhQuan-22/Course-Assistant-Chatbot">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Course-Assistant-Chatbot&theme=merko&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MinhQuan-22/Viet-Bank">
+    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Viet-Bank&theme=gruvbox&hide_border=false&border_radius=10&description_lines_count=2" />
+  </a>
+</p>
+
+---
+
+## 📌 Project Overview
 
 ### 🏨 Royal Hotel Booking System
 
@@ -83,34 +110,6 @@ A digital banking web application designed to simulate core online banking servi
 - Transaction history
 - Digital banking dashboard
 - Responsive user interface
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhQuan-22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan-22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/MinhQuan-22/Royal-Hotel-Booking-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Royal-Hotel-Booking-System&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/MinhQuan-22/Course-Assistant-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Course-Assistant-Chatbot&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/MinhQuan-22/Viet-Bank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Viet-Bank&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
 
 ---
 
