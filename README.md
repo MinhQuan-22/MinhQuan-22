@@ -40,8 +40,8 @@ I am a Software Engineering student at Ton Duc Thang University, currently focus
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhQuan-22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan-22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" alt="Minh Quan's GitHub Stats" src="https://github-readme-stats-omega-virid-94.vercel.app/api?username=MinhQuan-22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" alt="Top Languages" src="https://github-readme-stats-omega-virid-94.vercel.app/api/top-langs/?username=MinhQuan-22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -50,16 +50,16 @@ I am a Software Engineering student at Ton Duc Thang University, currently focus
 
 <p align="center">
   <a href="https://github.com/MinhQuan-22/Royal-Hotel-Booking-System">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Royal-Hotel-Booking-System&theme=radical&hide_border=false&border_radius=10&description_lines_count=2" />
+    <img width="410" alt="Royal Hotel Booking System" src="https://github-readme-stats-omega-virid-94.vercel.app/api/pin/?username=MinhQuan-22&repo=Royal-Hotel-Booking-System&theme=radical&border_radius=10&description_lines_count=2" />
   </a>
   <a href="https://github.com/MinhQuan-22/Course-Assistant-Chatbot">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Course-Assistant-Chatbot&theme=merko&hide_border=false&border_radius=10&description_lines_count=2" />
+    <img width="410" alt="Course Assistant Chatbot" src="https://github-readme-stats-omega-virid-94.vercel.app/api/pin/?username=MinhQuan-22&repo=Course-Assistant-Chatbot&theme=merko&border_radius=10&description_lines_count=2" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/MinhQuan-22/Viet-Bank">
-    <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Viet-Bank&theme=gruvbox&hide_border=false&border_radius=10&description_lines_count=2" />
+    <img width="410" alt="VietBank Digital Banking" src="https://github-readme-stats-omega-virid-94.vercel.app/api/pin/?username=MinhQuan-22&repo=Viet-Bank&theme=gruvbox&border_radius=10&description_lines_count=2" />
   </a>
 </p>
 
