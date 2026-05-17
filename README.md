@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Hoang</h1>
+<h1 align="center">Hi 👋, I'm Chu Dinh Minh Quan</h1>
 
 <h3 align="center">
   Software Engineering Student | Backend / Full-stack Developer Intern
 </h3>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:chudinhminhquan1002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   <a href="YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/MinhQuan-22">
+    <img src="https://img.shields.io/badge/GitHub-MinhQuan-22-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinhQuan-22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan-22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
@@ -66,17 +66,17 @@
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/ROYAL_HOTEL_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=ROYAL_HOTEL_REPO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/MinhQuan-22/Royal-Hotel-Booking-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Royal-Hotel-Booking-System&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/COURSE_ASSISTANT_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=COURSE_ASSISTANT_REPO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/MinhQuan-22/Course-Assistant-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Course-Assistant-Chatbot&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/JOB_TRACKER_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=JOB_TRACKER_REPO&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/MinhQuan-22/Viet-Bank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan-22&repo=Viet-Bank&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -84,6 +84,6 @@
 
 ## 📫 Contact
 
-- Email: YOUR_EMAIL  
+- Email: chudinhminhquan1002@gmail.com  
 - LinkedIn: YOUR_LINKEDIN  
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/MinhQuan-22
